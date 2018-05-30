@@ -1,3 +1,5 @@
+# DEPRECATED: Please use the official repo with the banano setting enabled: https://github.com/NanoTools/nanoNodeMonitor
+
 # Banano Node Monitor
 
 ![GitHub release](https://img.shields.io/github/release/nanotools/nanoNodeMonitor.svg?style=flat-square) [![StyleCI](https://styleci.io/repos/118352667/shield?branch=master)](https://styleci.io/repos/118352667)
